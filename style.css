@@ -3,5 +3,11 @@ body{
 }
 /* billielinda */
 img{
-    width: 10%;
+    width: 70%;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
