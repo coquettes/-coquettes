@@ -18,4 +18,8 @@ header{
 
 .intro{
     display: flex;
+    margin: 39px;
+    background-color: whitesmoke;
+    padding: 30px;
+    border: 20px solid #ff97a9;
 }
