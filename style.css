@@ -24,4 +24,7 @@ header{
     border: 20px solid #ff97a9;
 }
 
-.equipe
+.equipe{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
