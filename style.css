@@ -19,16 +19,16 @@ header{
 .intro{
     display: flex;
     margin: 39px;
-    background-color: rgb(255, 196, 247);
+    background-color: white;
     padding: 30px;
-    border: 20px solid #4e002e;
+    border: 20px solid #ff69c1;
 }
 
 .equipe{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
-    background-color: rgb(255, 196, 247);
+    background-color: white;
     color: #000000;
 }
 
