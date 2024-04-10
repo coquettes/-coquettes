@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(250, 199, 233);
+    background-color: rgb(255, 255, 255);
 }
 /* trtrtrtrt */
 img{
@@ -19,9 +19,9 @@ header{
 .intro{
     display: flex;
     margin: 39px;
-    background-color: whitesmoke;
+    background-color: white;
     padding: 30px;
-    border: 20px solid #ff97a9;
+    border: 20px solid #ff94d2;
 }
 
 .equipe{
@@ -29,7 +29,7 @@ header{
     grid-template-columns: 33% 33% 33%;
     text-align: center;
     background-color: white;
-    color: pink;
+    color: #ff94d2;
 }
 
 .fotoequipe{
