@@ -21,14 +21,14 @@ header{
     margin: 39px;
     background-color: white;
     padding: 30px;
-    border: 20px solid #ff94d2;
+    border: 20px solid #f588c7;
 }
 
 .equipe{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
-    background-color: white;
+    background-color: rgb(226, 107, 210);
     color: #ff94d2;
 }
 
