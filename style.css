@@ -35,3 +35,11 @@ header{
 .fotoequipe{
     width: 40%;
 }
+
+.intro{
+    display: flex;
+    margin: 39px;
+    background-color: rgb(175, 168, 168);
+    padding: 30px;
+ 
+}
