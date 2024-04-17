@@ -36,7 +36,7 @@ header{
     width: 40%;
 }
 
-.introd{
+.introd.cruel{
     display: flex;
     margin: 39px;
     background-color: rgb(175, 168, 168);
