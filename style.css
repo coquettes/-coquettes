@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 189, 246);
+    background-color: rgb(230, 67, 143);
 }
 /* trtrtrtrt */
 img{
@@ -21,14 +21,14 @@ header{
     margin: 39px;
     background-color: white;
     padding: 30px;
-    border: 20px solid #e76edd;
+    border: 20px solid color;
 }
 
 #equipe{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
-    background-color: rgb(233, 165, 224);
+    background-color: rgb(192, 62, 105);
     color: #000000;
 }
 
