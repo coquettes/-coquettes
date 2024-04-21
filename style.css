@@ -21,7 +21,7 @@ header{
     margin: 39px;
     background-color: white;
     padding: 30px;
-    border: 20px solid color;
+    border: 20px solid rgb(207, 73, 156);
 }
 
 #equipe{
@@ -39,7 +39,7 @@ header{
 .introd.cruel{
     display: flex;
     margin: 39px;
-    background-color: rgb(175, 168, 168);
+    background-color: rgb(197, 101, 154);
     padding: 30px;
  
 }
