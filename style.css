@@ -55,3 +55,8 @@ header{
     background-color:white ;
     padding: 30px ;
 }
+
+.lado{
+    display: flex;
+    justify-content: space-between;
+}
