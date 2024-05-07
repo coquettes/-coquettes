@@ -42,21 +42,3 @@ header{
     padding: 30px;
  
 }
-.intro.lover{
-    display: flex ;
-    margin: 39px ;
-    background-color:white ;
-    padding: 30px ;
-    
-}
-.intro.Anti-Hero{
-    display: flex ;
-    margin: 39px ;
-    background-color:white ;
-    padding: 30px ;
-}
-
-.lado{
-    display: flex;
-    justify-content: space-between;
-}
