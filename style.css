@@ -36,8 +36,7 @@ header{
     width: 40%;
 }
 
-.intro.cruelsummer{
-    display: flex;
+.intro-cruelsummer{
     margin: 39px;
     background-color: white;
     padding: 30px;
